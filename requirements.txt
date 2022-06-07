@@ -1,0 +1,41 @@
+appdirs==1.4.4
+certifi==2020.12.5
+chardet==4.0.0
+cycler==0.10.0
+debtcollector==2.2.0
+diffdist==0.1
+fasteners==0.16
+idna==2.10
+importlib-metadata==4.0.1
+iso8601==0.1.14
+kiwisolver==1.3.1
+matplotlib==3.4.2
+mkl-fft==1.3.0
+mkl-random @ file:///tmp/build/80754af9/mkl_random_1618853974840/work
+mkl-service==2.3.0
+netaddr==0.8.0
+netifaces==0.10.9
+numpy==1.19.2
+olefile==0.46
+oslo.concurrency==4.4.0
+oslo.config==8.7.0
+oslo.i18n==5.0.1
+oslo.utils==4.9.0
+packaging==20.9
+pandas==1.2.4
+pbr==5.6.0
+Pillow @ file:///tmp/build/80754af9/pillow_1617386154241/work
+pyparsing==2.4.7
+python-dateutil==2.8.1
+pytz==2021.1
+PyYAML==5.4.1
+requests==2.25.1
+rfc3986==1.5.0
+six @ file:///tmp/build/80754af9/six_1605205313296/work
+stevedore==3.3.0
+torch==1.6.0
+torchvision==0.7.0
+typing-extensions==3.10.0.0
+urllib3==1.26.4
+wrapt==1.12.1
+zipp==3.4.1
