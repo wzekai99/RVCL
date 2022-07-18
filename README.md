@@ -31,7 +31,7 @@ pip install -r requirements.txt
 
 ### Code Overview
 
-Our code is built upon a previous codebase from several baselines considered in the paper :
+Our code is based on the several open source codes:
 [RoCL](https://github.com/Kim-Minseon/RoCL) (Kim et al., 2020); 
 [auto_LiRPA](https://github.com/KaidiXu/auto_LiRPA) (Xu et al., 2020); 
 [Beta-CROWN](https://github.com/KaidiXu/Beta-CROWN) (Wang et al., 2021); 
