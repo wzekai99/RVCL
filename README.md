@@ -2,6 +2,7 @@
 
 This repository contains code for ICML 2022 long presentation **"Robustness Verification for Contrastive Learning"** by Zekai Wang, Weiwei Liu.
 
+Paper: https://proceedings.mlr.press/v162/wang22q.html
 
 ### Dependencies
 
@@ -29,6 +30,11 @@ pip install -r requirements.txt
 ```
 
 ### Code Overview
+
+Our code is built upon a previous codebase from several baselines considered in the paper :
+Kim et al. (2020), [RoCL](https://github.com/Kim-Minseon/RoCL); 
+Xu et al. (2020), [auto_LiRPA](https://github.com/KaidiXu/auto_LiRPA); 
+Wang et al. (2021), [Beta-CROWN](https://github.com/KaidiXu/Beta-CROWN).
 
 ```
 .
