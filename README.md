@@ -32,9 +32,9 @@ pip install -r requirements.txt
 ### Code Overview
 
 Our code is built upon a previous codebase from several baselines considered in the paper :
-Kim et al. (2020), [RoCL](https://github.com/Kim-Minseon/RoCL); 
-Xu et al. (2020), [auto_LiRPA](https://github.com/KaidiXu/auto_LiRPA); 
-Wang et al. (2021), [Beta-CROWN](https://github.com/KaidiXu/Beta-CROWN).
+[RoCL](https://github.com/Kim-Minseon/RoCL) (Kim et al., 2020); 
+[auto_LiRPA](https://github.com/KaidiXu/auto_LiRPA) (Xu et al., 2020); 
+[Beta-CROWN](https://github.com/KaidiXu/Beta-CROWN) (Wang et al., 2021); 
 
 ```
 .
