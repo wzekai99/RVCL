@@ -73,7 +73,6 @@ attack_info = 'Adv_epsilon_'+str(args.epsilon)+'_alpha_'+ str(args.alpha) + '_ma
 save_name += (attack_info + '_')
 print("Adversarial info...")
 print(attack_info)
-img_clip = min_max_value(args)
 attacker = FastGradientSignUntargeted(model, linear='None', epsilon=args.epsilon, alpha=args.alpha, min_val=img_clip['min'].to(args.device), max_val=img_clip['max'].to(args.device), max_iters=args.k, _type=args.attack_type)
 
 criterion = nn.CrossEntropyLoss()
