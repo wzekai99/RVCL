@@ -1,8 +1,6 @@
 # Robustness Verification for Contrastive Learning
 
-This repository contains code for ICML 2022 long presentation **"Robustness Verification for Contrastive Learning"** by Zekai Wang, Weiwei Liu.
-
-Paper: https://proceedings.mlr.press/v162/wang22q.html
+This repository contains code for ICML 2022 long presentation **["Robustness Verification for Contrastive Learning"](https://proceedings.mlr.press/v162/wang22q.html)** by Zekai Wang, Weiwei Liu.
 
 ### Dependencies
 
@@ -238,3 +236,24 @@ python unsupervised_adv_train.py --gpuno '0' --batch-size 256 --model 'cnn_4laye
     </tr>
 </table>
 
+### References
+If you find the code useful for your research, please consider citing
+```bib
+@inproceedings{wang2022robustness,
+  title = {Robustness Verification for Contrastive Learning},
+  author = {Wang, Zekai and Liu, Weiwei},
+  booktitle = {International Conference on Machine Learning (ICML)},
+  volume = {162},
+  pages = {22865--22883},
+  year = {2022}
+}
+```
+and/or the journal extension of this paper, which is accepted by JMLR
+```bib
+@article{wang2023rvcl,
+  title = {RVCL: Evaluating the Robustness of Contrastive Learning via Verification},
+  author = {Wang, Zekai and Liu, Weiwei},
+  journal = {Journal of Machine Learning Research},
+  year = {2023}
+}
+```
