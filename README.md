@@ -250,7 +250,7 @@ If you find the code useful for your research, please consider citing
 ```
 and/or the journal extension of this paper, which is accepted by JMLR
 ```bib
-@article{wang2023rvcl,
+@article{wang2024rvcl,
   title = {RVCL: Evaluating the Robustness of Contrastive Learning via Verification},
   author = {Wang, Zekai and Liu, Weiwei},
   journal = {Journal of Machine Learning Research},
