@@ -1,6 +1,6 @@
 # Robustness Verification for Contrastive Learning
 
-This repository contains code for ICML 2022 long presentation **["Robustness Verification for Contrastive Learning"](https://proceedings.mlr.press/v162/wang22q.html)** and JMLR **RVCL: Evaluating the Robustness of Contrastive Learning via Verification** by Zekai Wang, Weiwei Liu.
+This repository contains code for ICML 2022 long presentation **["Robustness Verification for Contrastive Learning"](https://proceedings.mlr.press/v162/wang22q.html)** and JMLR **["RVCL: Evaluating the Robustness of Contrastive Learning via Verification"](https://zekai.site/assets/pdf/RVCL_JMLR.pdf)** by Zekai Wang, Weiwei Liu.
 
 ### Dependencies
 
