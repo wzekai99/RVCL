@@ -254,6 +254,6 @@ and/or the journal extension of this paper, which is accepted by JMLR
   title = {RVCL: Evaluating the Robustness of Contrastive Learning via Verification},
   author = {Wang, Zekai and Liu, Weiwei},
   journal = {Journal of Machine Learning Research},
-  year = {2023}
+  year = {2024}
 }
 ```
