@@ -257,6 +257,6 @@ and/or the journal extension of this paper, which is accepted by JMLR
   volume  = {24},
   number  = {396},
   pages   = {1--43},
-  year    = {2023},
+  year    = {2023}
 }
 ```
