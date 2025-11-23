@@ -250,7 +250,7 @@ If you find the code useful for your research, please consider citing
   year = {2022}
 }
 ```
-and/or the journal extension of this paper, which is accepted by JMLR
+and/or the journal extension of this paper, which is accepted by JMLR 2023
 ```bib
 @article{wang2023rvcl,
   title = {RVCL: Evaluating the Robustness of Contrastive Learning via Verification},
